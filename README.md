@@ -1,4 +1,4 @@
-# README: Using Python for Analyzing Purchase Behavior on Black Friday – Walmart Inc.
+# Python for Analyzing Purchase Behavior on Black Friday – Walmart Inc.
 
 ## Overview
 
