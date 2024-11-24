@@ -14,7 +14,6 @@ This project investigates customer purchasing behavior at Walmart Inc., focusing
 
 ## Dataset Information
 
-- **Source:** [Kaggle - Black Friday Dataset](https://www.kaggle.com/)
 - **Size:** 550,068 rows, 10 attributes.
 - **Key Attributes:**  
   - **Customer Demographics:** Gender, Age, Marital Status, City Category.  
